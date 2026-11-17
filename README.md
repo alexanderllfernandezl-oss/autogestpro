@@ -1,2 +1,3 @@
 # autogestpro
-Sistema de Taller
+Sistema de Taller Jhonatan Cabrera Mayra Choqueta
+
